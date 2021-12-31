@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\n\ Write\ a\ description\ of\ class\ HRR_backend\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=n\ p\ s\ sa\ c
+comment1.target=Employee(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment10.params=x
+comment10.target=void\ setSales(double)
+comment11.params=x
+comment11.target=void\ setCommission(double)
+comment2.params=
+comment2.target=double\ getSalary()
+comment3.params=
+comment3.target=java.lang.String\ getPosition()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=x
+comment5.target=void\ setSalary(double)
+comment6.params=x
+comment6.target=void\ setPosition(java.lang.String)
+comment7.params=x
+comment7.target=void\ setName(java.lang.String)
+comment8.params=
+comment8.target=double\ getSales()
+comment9.params=
+comment9.target=double\ getCommission()
+numComments=12
